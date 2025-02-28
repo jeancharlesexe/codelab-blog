@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: 100vw;
+}
+
+.inner-main{
+    padding-top: 35px;
+    width: 60vw;
+    height: auto;
+}

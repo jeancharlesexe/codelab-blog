@@ -43,7 +43,7 @@
 }
 
 .inner-header > input:focus{
-    outline: none;
-    border: 2px solid #E07B67;
+    border: none;
+    outline: 2px solid #E07B67;
     border-radius: 5px;
 }
